@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="160" height="50" viewBox="0 0 160 50" xml:space="preserve">
+<desc>Created with Fabric.js 3.5.0</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="rgba(255,255,255,0)"/>
+<g transform="matrix(0.0942 0 0 0.0942 28.5701 24.9997)" id="255358">
+<path style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: rgb(17,23,43); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" transform=" translate(-255, -255)" d="M 459 51 H 51 C 22.95 51 0 73.95 0 102 v 306 c 0 28.05 22.95 51 51 51 h 408 c 28.05 0 51 -22.95 51 -51 V 102 C 510 73.95 487.05 51 459 51 z M 459 408 h -51 V 183.6 l -153 96.9 l -153 -96.9 V 408 H 51 V 102 h 30.6 L 255 209.1 L 428.4 102 H 459 V 408 z" stroke-linecap="round"/>
+</g>
+<g transform="matrix(1 0 0 1 104.5165 25)" style="" id="798829">
+		
+<path xml:space="preserve" font-family="Encode Sans" font-size="28" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: rgb(17,23,43); fill-rule: nonzero; opacity: 1; white-space: pre;" d="M-32.49 9.03L-32.49 9.03Q-36.42 9.03-39.06 7.89Q-41.69 6.75-43.00 4.41Q-44.32 2.08-44.32-1.52L-44.32-1.52Q-44.32-5.09-42.96-7.46Q-41.60-9.82-38.99-11.01Q-36.37-12.19-32.57-12.19L-32.57-12.19Q-31.36-12.19-30.19-12.06Q-29.02-11.94-27.90-11.67L-27.90-11.67L-27.90-7.92Q-28.99-8.19-30.05-8.31Q-31.10-8.44-32.17-8.44L-32.17-8.44Q-34.70-8.44-36.34-7.74Q-37.98-7.04-38.78-5.51Q-39.59-3.97-39.59-1.45L-39.59-1.45Q-39.59 0.90-38.84 2.39Q-38.09 3.88-36.59 4.59Q-35.09 5.30-32.84 5.30L-32.84 5.30Q-31.99 5.30-31.15 5.23Q-30.31 5.17-29.61 5.06L-29.61 5.06L-31.55 6.75L-31.55-1.28L-27.31-1.28L-27.31 8.57Q-28.65 8.80-29.94 8.91Q-31.22 9.03-32.49 9.03ZM-19.37 8.80L-23.61 8.80L-23.61-11.92L-18.08-11.92L-12.04 1.77L-12.58 1.77L-6.70-11.92L-1.17-11.92L-1.17 8.80L-5.41 8.80L-5.41-7.95L-4.52-7.95L-10.52 5.80L-14.26 5.80L-20.46-7.95L-19.37-7.95L-19.37 8.80ZM5.37 8.80L0.94 8.80L7.63-11.92L14.26-11.92L20.95 8.80L16.47 8.80L10.67-9.94L11.15-9.94L5.37 8.80ZM16.27 3.27L5.59 3.27L6.57-0.36L15.31-0.36L16.27 3.27ZM27.56 8.80L23.01 8.80L23.01-11.92L27.56-11.92L27.56 8.80ZM45.35 8.80L31.28 8.80L31.28-11.92L35.83-11.92L35.83 5.02L45.35 5.02L45.35 8.80Z"/></g>
+</svg>
